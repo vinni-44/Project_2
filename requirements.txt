@@ -1,0 +1,5 @@
+-e .
+numpy 
+pandas
+scikit-learn
+seaborn
